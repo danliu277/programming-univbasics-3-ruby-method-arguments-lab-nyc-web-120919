@@ -12,7 +12,8 @@ def introduction_with_language(name, language)
 end
 
 def introduction_with_language_optional(name, language)
-
+  print "Hi, my name is Edwin and I am learning to program in Python.\n"
+end
 
 
 
